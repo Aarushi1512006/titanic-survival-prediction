@@ -1,2 +1,35 @@
-# titanic-survival-prediction
-A comparative analysis of supervised learning models to predict passenger survival on the Titanic dataset.
+# Titanic Survival Prediction
+
+This repository explores various machine learning techniques to solve the classic Titanic survival classification problem. The goal is to predict which passengers survived the shipwreck based on features like age, gender, and socio-economic status.
+
+## 📈 Project Overview
+I am implementing and comparing multiple classification algorithms to determine the most effective approach for this dataset.
+
+### Models Implemented:
+- [x] Logistic Regression (Baseline)
+- [ ] Decision Tree
+- [ ] K-Nearest Neighbors (KNN)
+- [ ] Random Forest / Gradient Boosting (Planned)
+
+---
+
+## 📊 Model Performance Comparison
+As I experiment with different classifiers, I track their performance metrics here:
+
+| Model | Accuracy | Precision | Recall | F1-Score |
+| :--- | :--- | :--- | :--- | :--- |
+| **Logistic Regression** | 0.80 | 0.74 | 0.77 | 0.75 |
+| **Decision Tree** | -- | -- | -- | -- |
+| **KNN** | -- | -- | -- | -- |
+
+---
+
+## 🛠️ Tech Stack
+- **Language:** Python
+- **Environment:** Google Colab / Jupyter Notebooks
+- **Libraries:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
+
+## 🚀 How to Run
+1. Clone the repository: `git clone https://github.com/YOUR_USERNAME/titanic-survival-prediction.git`
+2. Open the `.ipynb` files in Google Colab or Jupyter Lab.
+3. Run the cells—the dataset will load automatically via Seaborn!

@@ -8,7 +8,7 @@ I am implementing and comparing multiple classification algorithms to determine 
 ### Models Implemented:
 - [x] Logistic Regression (Baseline)
 - [ ] Decision Tree
-- [ ] K-Nearest Neighbors (KNN)
+- [X] K-Nearest Neighbors (KNN)
 - [ ] Random Forest / Gradient Boosting (Planned)
 
 ---
@@ -20,7 +20,7 @@ As I experiment with different classifiers, I track their performance metrics he
 | :--- | :--- | :--- | :--- | :--- |
 | **Logistic Regression** | 0.80 | 0.74 | 0.77 | 0.75 |
 | **Decision Tree** | -- | -- | -- | -- |
-| **KNN** | -- | -- | -- | -- |
+| **KNN** | 0.81 | 0.80 | 0.79 | 0.80 |
 
 ---
 

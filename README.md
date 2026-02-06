@@ -7,10 +7,10 @@ I am implementing and comparing multiple classification algorithms to determine 
 
 ### Models Implemented:
 - [x] Logistic Regression (Baseline)
-- [ ] Decision Tree
+- [X] Decision Tree
 - [X] NaiveBayes
 - [X] K-Nearest Neighbors (KNN)
-- [ ] Random Forest / Gradient Boosting (Planned)
+- [ ] Support Vector Machine (SVM)
 
 ---
 
@@ -20,7 +20,7 @@ As I experiment with different classifiers, I track their performance metrics he
 | Model | Accuracy | Precision | Recall | F1-Score |
 | :--- | :--- | :--- | :--- | :--- |
 | **Logistic Regression** | 0.80 | 0.74 | 0.77 | 0.75 |
-| **Decision Tree** | -- | -- | -- | -- |
+| **Decision Tree** | 0.80 | 0.73 | 0.78 | 0.76 |
 | **Naive Bayes** | 0.78 | 0.68 | 0.78 | 0.73 |
 | **KNN** | 0.81 | 0.78 | 0.71 | 0.74 |
 
@@ -32,6 +32,6 @@ As I experiment with different classifiers, I track their performance metrics he
 - **Libraries:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
 
 ## 🚀 How to Run
-1. Clone the repository: `git clone https://github.com/YOUR_USERNAME/titanic-survival-prediction.git`
+1. Clone the repository: `git clone https://github.com/Aarushi1512006/titanic-survival-prediction.git`
 2. Open the `.ipynb` files in Google Colab or Jupyter Lab.
 3. Run the cells—the dataset will load automatically via Seaborn!

@@ -10,7 +10,7 @@ I am implementing and comparing multiple classification algorithms to determine 
 - [X] Decision Tree
 - [X] NaiveBayes
 - [X] K-Nearest Neighbors (KNN)
-- [ ] Support Vector Machine (SVM)
+- [X] Support Vector Machine (SVM)
 
 ---
 
@@ -23,6 +23,7 @@ As I experiment with different classifiers, I track their performance metrics he
 | **Decision Tree** | 0.80 | 0.73 | 0.78 | 0.76 |
 | **Naive Bayes** | 0.78 | 0.68 | 0.78 | 0.73 |
 | **KNN** | 0.81 | 0.78 | 0.71 | 0.74 |
+| **SVM** | 0.83 | 0.80 | 0.74 | 0.77 |
 
 ---
 
